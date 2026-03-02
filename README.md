@@ -3,7 +3,7 @@
 
 # Hi 👋 I'm Shikhar Verma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Full+Stack+Developer;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+ML+Developer;Building+Intelligent+Systems;I+Love+Innovation;Always+Learning+Always+Evolving" />
 
 <br>
 
